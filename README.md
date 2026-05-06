@@ -27,6 +27,7 @@ sofa-eval/
 │   └── rewards.py           # 4-tier GRPO reward functions (RLVR)
 │   └── SOFA_Syllabus_ENG.md # Syllabus for understanding SOFA (English)
 │   └── SOFA_Syllabus_ID.md  # Syllabus for understanding SOFA (Bahasa Indonesia)
+│   └── demo.py              # For running instant demo in terminal/command prompt
 ├── tests/
 │   └── test_oracle.py       # Unit tests (pytest)
 ├── pyproject.toml           # Build configuration
