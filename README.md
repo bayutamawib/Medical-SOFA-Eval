@@ -25,8 +25,8 @@ sofa-eval/
 │   ├── utils.py             # Regex parsing, text extraction, SOFA table parser
 │   ├── oracle.py            # SOFA score verification engine + abstention bonus
 │   └── rewards.py           # 4-tier GRPO reward functions (RLVR)
-|   |__ SOFA_Syllabus_ENG.md # Syllabus for understanding SOFA (English)
-|   |__ SOFA_Syllabus_ID.md # Syllabus for understanding SOFA (Bahasa Indonesia)
+│   └── SOFA_Syllabus_ENG.md # Syllabus for understanding SOFA (English)
+│   └── SOFA_Syllabus_ID.md # Syllabus for understanding SOFA (Bahasa Indonesia)
 ├── tests/
 │   └── test_oracle.py       # Unit tests (pytest)
 ├── pyproject.toml           # Build configuration
