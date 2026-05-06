@@ -1,4 +1,4 @@
-Berikut adalah penjelasan 6 indikator tersebut beserta interpretasi skornya berdasarkan ambang batas ( *threshold* ) yang digunakan di `distributed_grpo_trainer.py`:
+Berikut adalah penjelasan 6 indikator tersebut beserta interpretasi skornya berdasarkan ambang batas ( *threshold* ) yang digunakan di modul ini:
 
 
 ## 1. Sistem Respirasi (Pernapasan)
