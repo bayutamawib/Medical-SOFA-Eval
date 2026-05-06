@@ -1,4 +1,4 @@
-# sofa-eval
+# Medical SOFA Eval
 
 **Calibrated Abstention Evaluation for Clinical LLMs**
 
