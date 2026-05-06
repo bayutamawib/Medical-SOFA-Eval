@@ -25,6 +25,8 @@ sofa-eval/
 │   ├── utils.py             # Regex parsing, text extraction, SOFA table parser
 │   ├── oracle.py            # SOFA score verification engine + abstention bonus
 │   └── rewards.py           # 4-tier GRPO reward functions (RLVR)
+|   |__ SOFA_Syllabus_ENG.md # Syllabus for understanding SOFA (English)
+|   |__ SOFA_Syllabus_ID.md # Syllabus for understanding SOFA (Bahasa Indonesia)
 ├── tests/
 │   └── test_oracle.py       # Unit tests (pytest)
 ├── pyproject.toml           # Build configuration
@@ -94,6 +96,7 @@ If you use this library in your research, please cite:
 
 - Vincent, J. L., et al. (1996). *The SOFA (Sepsis-related Organ Failure Assessment) score to describe organ dysfunction/failure.* Intensive Care Medicine, 22(7), 707-710.
 - DeepSeek-AI. (2025). *DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning.* arXiv:2501.12948.
+- Wibisono, N. B. (2026). Calibrated Abstention and Clinical Deferral in Small Language Models via RLVR and GRPO. Zenodo. https://doi.org/10.5281/zenodo.19913606
 
 ## License
 
