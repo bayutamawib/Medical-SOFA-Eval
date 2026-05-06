@@ -1,4 +1,4 @@
-The following is an explanation of the 6 indicators along with the interpretation of their scores based on the threshold ( *threshold* ) used in `distributed_grpo_trainer.py`:
+The following is an explanation of the 6 indicators along with the interpretation of their scores based on the threshold ( *threshold* ) used in this module:
 
 ### 1. Respiration System
 
