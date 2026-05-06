@@ -1,0 +1,10 @@
+# Core dependencies (for the evaluation library)
+regex>=2024.0.0
+
+# Optional: Required only if using the full GRPO training pipeline
+# torch>=2.0
+# transformers>=4.40
+# trl>=0.17
+# peft>=0.10
+# datasets>=2.18
+# unsloth

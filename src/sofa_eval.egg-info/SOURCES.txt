@@ -1,0 +1,15 @@
+LICENSE
+README.md
+pyproject.toml
+src/sofa_eval/__init__.py
+src/sofa_eval/distributed_grpo_trainer.py
+src/sofa_eval/oracle.py
+src/sofa_eval/oracle_for_excercise.py
+src/sofa_eval/rewards.py
+src/sofa_eval/utils.py
+src/sofa_eval.egg-info/PKG-INFO
+src/sofa_eval.egg-info/SOURCES.txt
+src/sofa_eval.egg-info/dependency_links.txt
+src/sofa_eval.egg-info/requires.txt
+src/sofa_eval.egg-info/top_level.txt
+tests/test_oracle.py
