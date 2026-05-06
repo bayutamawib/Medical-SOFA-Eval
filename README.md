@@ -26,7 +26,7 @@ sofa-eval/
 │   ├── oracle.py            # SOFA score verification engine + abstention bonus
 │   └── rewards.py           # 4-tier GRPO reward functions (RLVR)
 │   └── SOFA_Syllabus_ENG.md # Syllabus for understanding SOFA (English)
-│   └── SOFA_Syllabus_ID.md # Syllabus for understanding SOFA (Bahasa Indonesia)
+│   └── SOFA_Syllabus_ID.md  # Syllabus for understanding SOFA (Bahasa Indonesia)
 ├── tests/
 │   └── test_oracle.py       # Unit tests (pytest)
 ├── pyproject.toml           # Build configuration
