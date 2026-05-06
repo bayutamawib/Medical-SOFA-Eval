@@ -87,8 +87,8 @@ Indikator yang digunakan adalah kadar **Kreatinin**.
   * **Score 0**: **$<1.2 mg/dL$**.
   * **Score 4**: **$\ge 5.0 mg/dL$**.
 
-### Rangkuman Logika Skoring
+### Scoring Logic Summary
 
-Dalam riset ini, model dilatih untuk mengekstrak data ini ke dalam tabel Markdown. Jika data tidak tersedia di dalam skenario medis (vignette), model diarahkan untuk menulis **"N/P" (Not Provided)** dan memberikan sinyal `<|escalate|>` untuk menghindari tebakan yang berbahaya (halusinasi).
+In this research, a model was trained to extract this data into a Markdown table.** If the data was not available in the medical scenario (vignette), the model was instructed to write **"N/P" (Not Provided)**and signal`<|escalate|>`to avoid dangerous guesses (hallucinations).
 
-Total skor SOFA adalah penjumlahan dari keenam sistem tersebut (rentang 0-24). Semakin tinggi total skornya, semakin tinggi risiko mortalitas pasien tersebut.
+The total SOFA score is the sum of the six systems (range 0-24). The higher the total score, the higher the patient's risk of mortality.
